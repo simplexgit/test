@@ -4,5 +4,5 @@ test
 hello, world ! from topic.
 
 ```ruby
-puts "foo"
+puts "bar"
 ```
